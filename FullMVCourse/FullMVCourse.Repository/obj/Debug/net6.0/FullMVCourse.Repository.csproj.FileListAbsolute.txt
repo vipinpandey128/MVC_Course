@@ -1,0 +1,12 @@
+D:\MVC Course\FullMVCourse\FullMVCourse.Repository\bin\Debug\net6.0\FullMVCourse.Repository.deps.json
+D:\MVC Course\FullMVCourse\FullMVCourse.Repository\bin\Debug\net6.0\FullMVCourse.Repository.dll
+D:\MVC Course\FullMVCourse\FullMVCourse.Repository\bin\Debug\net6.0\FullMVCourse.Repository.pdb
+D:\MVC Course\FullMVCourse\FullMVCourse.Repository\obj\Debug\net6.0\FullMVCourse.Repository.csproj.AssemblyReference.cache
+D:\MVC Course\FullMVCourse\FullMVCourse.Repository\obj\Debug\net6.0\FullMVCourse.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\MVC Course\FullMVCourse\FullMVCourse.Repository\obj\Debug\net6.0\FullMVCourse.Repository.AssemblyInfoInputs.cache
+D:\MVC Course\FullMVCourse\FullMVCourse.Repository\obj\Debug\net6.0\FullMVCourse.Repository.AssemblyInfo.cs
+D:\MVC Course\FullMVCourse\FullMVCourse.Repository\obj\Debug\net6.0\FullMVCourse.Repository.csproj.CoreCompileInputs.cache
+D:\MVC Course\FullMVCourse\FullMVCourse.Repository\obj\Debug\net6.0\FullMVCourse.Repository.dll
+D:\MVC Course\FullMVCourse\FullMVCourse.Repository\obj\Debug\net6.0\refint\FullMVCourse.Repository.dll
+D:\MVC Course\FullMVCourse\FullMVCourse.Repository\obj\Debug\net6.0\FullMVCourse.Repository.pdb
+D:\MVC Course\FullMVCourse\FullMVCourse.Repository\obj\Debug\net6.0\ref\FullMVCourse.Repository.dll
