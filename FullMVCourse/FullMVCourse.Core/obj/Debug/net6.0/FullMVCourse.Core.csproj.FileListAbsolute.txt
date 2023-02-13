@@ -10,3 +10,15 @@ D:\MVC Course\FullMVCourse\FullMVCourse.Core\obj\Debug\net6.0\FullMVCourse.Core.
 D:\MVC Course\FullMVCourse\FullMVCourse.Core\obj\Debug\net6.0\refint\FullMVCourse.Core.dll
 D:\MVC Course\FullMVCourse\FullMVCourse.Core\obj\Debug\net6.0\FullMVCourse.Core.pdb
 D:\MVC Course\FullMVCourse\FullMVCourse.Core\obj\Debug\net6.0\ref\FullMVCourse.Core.dll
+D:\Code Play\MVC_Course\FullMVCourse\FullMVCourse.Core\bin\Debug\net6.0\FullMVCourse.Core.deps.json
+D:\Code Play\MVC_Course\FullMVCourse\FullMVCourse.Core\bin\Debug\net6.0\FullMVCourse.Core.dll
+D:\Code Play\MVC_Course\FullMVCourse\FullMVCourse.Core\bin\Debug\net6.0\FullMVCourse.Core.pdb
+D:\Code Play\MVC_Course\FullMVCourse\FullMVCourse.Core\obj\Debug\net6.0\FullMVCourse.Core.csproj.AssemblyReference.cache
+D:\Code Play\MVC_Course\FullMVCourse\FullMVCourse.Core\obj\Debug\net6.0\FullMVCourse.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code Play\MVC_Course\FullMVCourse\FullMVCourse.Core\obj\Debug\net6.0\FullMVCourse.Core.AssemblyInfoInputs.cache
+D:\Code Play\MVC_Course\FullMVCourse\FullMVCourse.Core\obj\Debug\net6.0\FullMVCourse.Core.AssemblyInfo.cs
+D:\Code Play\MVC_Course\FullMVCourse\FullMVCourse.Core\obj\Debug\net6.0\FullMVCourse.Core.csproj.CoreCompileInputs.cache
+D:\Code Play\MVC_Course\FullMVCourse\FullMVCourse.Core\obj\Debug\net6.0\FullMVCourse.Core.dll
+D:\Code Play\MVC_Course\FullMVCourse\FullMVCourse.Core\obj\Debug\net6.0\refint\FullMVCourse.Core.dll
+D:\Code Play\MVC_Course\FullMVCourse\FullMVCourse.Core\obj\Debug\net6.0\FullMVCourse.Core.pdb
+D:\Code Play\MVC_Course\FullMVCourse\FullMVCourse.Core\obj\Debug\net6.0\ref\FullMVCourse.Core.dll

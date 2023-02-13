@@ -5,7 +5,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
+
 
 namespace FullMVCourse.Core
 {
@@ -17,7 +17,7 @@ namespace FullMVCourse.Core
             _options = options;
         }
 
-        public DbSet<Task> Tasks { get; set; }
+        public DbSet<UserTask> UserTasks { get; set; }
         public DbSet<TaskDocument> TaskDocuments { get; set; }
         public DbSet<TaskLink> TaskLinks { get; set; }
         public DbSet<UserAddress> UserAddresses { get; set; }

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace FullMVCourse.Core
 {
-    public class Task : BaseEntity
+    public class UserTask : BaseEntity
     {
         public string TaskName { get; set; }
         public string Description { get; set; }

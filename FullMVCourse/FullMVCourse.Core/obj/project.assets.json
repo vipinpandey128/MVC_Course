@@ -3609,19 +3609,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\pvipi\\.nuget\\packages\\": {}
+    "C:\\Users\\jyoti\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\MVC Course\\FullMVCourse\\FullMVCourse.Core\\FullMVCourse.Core.csproj",
+      "projectUniqueName": "D:\\Code Play\\MVC_Course\\FullMVCourse\\FullMVCourse.Core\\FullMVCourse.Core.csproj",
       "projectName": "FullMVCourse.Core",
-      "projectPath": "D:\\MVC Course\\FullMVCourse\\FullMVCourse.Core\\FullMVCourse.Core.csproj",
-      "packagesPath": "C:\\Users\\pvipi\\.nuget\\packages\\",
-      "outputPath": "D:\\MVC Course\\FullMVCourse\\FullMVCourse.Core\\obj\\",
+      "projectPath": "D:\\Code Play\\MVC_Course\\FullMVCourse\\FullMVCourse.Core\\FullMVCourse.Core.csproj",
+      "packagesPath": "C:\\Users\\jyoti\\.nuget\\packages\\",
+      "outputPath": "D:\\Code Play\\MVC_Course\\FullMVCourse\\FullMVCourse.Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\pvipi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\jyoti\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\FullMVCourse.Core\FullMVCourse.Core.csproj" />
+  </ItemGroup>
+
 </Project>
